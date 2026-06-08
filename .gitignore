@@ -1,0 +1,38 @@
+# macOS system files
+.DS_Store
+
+# Xcode files
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+xcuserdata/
+*.xcworkspace
+!default.xcworkspace
+
+# Swift Package Manager files
+.build/
+.swiftpm/
+Packages/
+Package.resolved
+
+# Generated Xcode project (since XcodeGen is used)
+HabitFlow.xcodeproj/
+
+# Backups and local database caches
+App_Data/
+autobackup_*.json
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+
+# Python packaging files
+dist/
+*.egg-info/
+
+# Compiled binaries
+habitflow-cli
+
