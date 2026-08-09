@@ -1,841 +1,813 @@
 [
   {
-    "id" : "B91C8DD3-2ECD-458A-BCE2-E59590598107",
-    "customScheduleDays" : [
-
-    ],
-    "name" : "Morning Meditation",
-    "goalType" : "Daily",
-    "startDate" : "2026-03-10T00:00:00Z",
-    "habitDescription" : "15 minutes of mindfulness",
-    "weeklyTargetCount" : 1,
-    "reminderHour" : 8,
-    "categoryName" : "Meditation",
-    "reminderMinute" : 0,
-    "logs" : [
+    "id": "B91C8DD3-2ECD-458A-BCE2-E59590598107",
+    "customScheduleDays": [],
+    "name": "Morning Meditation",
+    "goalType": "Daily",
+    "startDate": "2026-03-10T00:00:00Z",
+    "habitDescription": "15 minutes of mindfulness",
+    "weeklyTargetCount": 1,
+    "reminderHour": 8,
+    "categoryName": "Meditation",
+    "reminderMinute": 0,
+    "logs": [
       {
-        "id" : "B40AA1BF-24DD-410A-9B4F-D9007B522C0B",
-        "date" : "2026-03-10T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "B40AA1BF-24DD-410A-9B4F-D9007B522C0B",
+        "date": "2026-03-10T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-03-11T12:00:00Z",
-        "id" : "4D0D6FCC-7076-43DC-81D3-F4808CC35598"
+        "notes": "Completed daily session",
+        "date": "2026-03-11T12:00:00Z",
+        "id": "4D0D6FCC-7076-43DC-81D3-F4808CC35598"
       },
       {
-        "date" : "2026-03-12T12:00:00Z",
-        "id" : "D3A3500F-DD20-468D-8DF2-CFA4E9D405D2",
-        "notes" : "Completed daily session"
+        "date": "2026-03-12T12:00:00Z",
+        "id": "D3A3500F-DD20-468D-8DF2-CFA4E9D405D2",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "A4C7829B-F47E-4692-8641-5B5354B2DE26",
-        "date" : "2026-03-13T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "A4C7829B-F47E-4692-8641-5B5354B2DE26",
+        "date": "2026-03-13T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "4324D96E-273B-4543-B375-AF92F2F3DD0E",
-        "date" : "2026-03-14T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "4324D96E-273B-4543-B375-AF92F2F3DD0E",
+        "date": "2026-03-14T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "8E50FC51-6473-4BD0-A48D-27E14BFE51E7",
-        "date" : "2026-03-15T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "8E50FC51-6473-4BD0-A48D-27E14BFE51E7",
+        "date": "2026-03-15T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "1034B30C-D705-4529-AAA5-54634807DBAB",
-        "date" : "2026-03-17T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "1034B30C-D705-4529-AAA5-54634807DBAB",
+        "date": "2026-03-17T12:00:00Z"
       },
       {
-        "id" : "1503C450-CB32-437E-BD39-11E90BD94499",
-        "notes" : "Completed daily session",
-        "date" : "2026-03-18T12:00:00Z"
+        "id": "1503C450-CB32-437E-BD39-11E90BD94499",
+        "notes": "Completed daily session",
+        "date": "2026-03-18T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-03-19T12:00:00Z",
-        "id" : "8F5FB062-B161-492B-907A-7242F4ACB91D"
+        "notes": "Completed daily session",
+        "date": "2026-03-19T12:00:00Z",
+        "id": "8F5FB062-B161-492B-907A-7242F4ACB91D"
       },
       {
-        "date" : "2026-03-20T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "62C8735C-10D6-4F9C-96DA-F10E9B458574"
+        "date": "2026-03-20T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "62C8735C-10D6-4F9C-96DA-F10E9B458574"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-03-21T12:00:00Z",
-        "id" : "2BB7DA76-176F-4AEC-BF7C-3255D9B86327"
+        "notes": "Completed daily session",
+        "date": "2026-03-21T12:00:00Z",
+        "id": "2BB7DA76-176F-4AEC-BF7C-3255D9B86327"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "3AF41722-905D-4698-BA07-364AA94436AE",
-        "date" : "2026-03-22T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "3AF41722-905D-4698-BA07-364AA94436AE",
+        "date": "2026-03-22T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "B01209E5-8FFA-442A-AE13-C0F6131B2EC6",
-        "date" : "2026-03-23T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "B01209E5-8FFA-442A-AE13-C0F6131B2EC6",
+        "date": "2026-03-23T12:00:00Z"
       },
       {
-        "id" : "5ED3FFF3-C25A-42E1-87CB-716069104854",
-        "date" : "2026-03-24T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "5ED3FFF3-C25A-42E1-87CB-716069104854",
+        "date": "2026-03-24T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "739D9AD0-6E3C-4CDF-89B6-C133C14687BC",
-        "date" : "2026-03-25T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "739D9AD0-6E3C-4CDF-89B6-C133C14687BC",
+        "date": "2026-03-25T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "07C092B3-C30D-4B97-8C04-068E5C81CA88",
-        "date" : "2026-03-26T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "07C092B3-C30D-4B97-8C04-068E5C81CA88",
+        "date": "2026-03-26T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "BE714B13-0761-4FEE-9BD8-5085DE82ECD7",
-        "date" : "2026-03-27T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "BE714B13-0761-4FEE-9BD8-5085DE82ECD7",
+        "date": "2026-03-27T12:00:00Z"
       },
       {
-        "date" : "2026-03-28T12:00:00Z",
-        "id" : "CF3415C8-13D6-4AE0-848E-DE1EC2626619",
-        "notes" : "Completed daily session"
+        "date": "2026-03-28T12:00:00Z",
+        "id": "CF3415C8-13D6-4AE0-848E-DE1EC2626619",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-03-29T12:00:00Z",
-        "id" : "4B1B1E4B-FDDF-4A90-B916-1A3EA2753F30"
+        "notes": "Completed daily session",
+        "date": "2026-03-29T12:00:00Z",
+        "id": "4B1B1E4B-FDDF-4A90-B916-1A3EA2753F30"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "C895C0DA-2A1D-4875-888A-A5E47ED62976",
-        "date" : "2026-03-30T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "C895C0DA-2A1D-4875-888A-A5E47ED62976",
+        "date": "2026-03-30T12:00:00Z"
       },
       {
-        "id" : "0078BC8B-F415-4B1D-9F6D-B370CFFB2155",
-        "notes" : "Completed daily session",
-        "date" : "2026-03-31T12:00:00Z"
+        "id": "0078BC8B-F415-4B1D-9F6D-B370CFFB2155",
+        "notes": "Completed daily session",
+        "date": "2026-03-31T12:00:00Z"
       },
       {
-        "date" : "2026-04-01T12:00:00Z",
-        "id" : "7210902B-688C-4FA0-B3D3-02BBCD5006D8",
-        "notes" : "Completed daily session"
+        "date": "2026-04-01T12:00:00Z",
+        "id": "7210902B-688C-4FA0-B3D3-02BBCD5006D8",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "9CDF0A2D-F610-4E85-BB52-4B67614BFEAA",
-        "date" : "2026-04-02T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "9CDF0A2D-F610-4E85-BB52-4B67614BFEAA",
+        "date": "2026-04-02T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-04-04T12:00:00Z",
-        "id" : "E42FD1BC-0281-473B-853C-4B27012C1498",
-        "notes" : "Completed daily session"
+        "date": "2026-04-04T12:00:00Z",
+        "id": "E42FD1BC-0281-473B-853C-4B27012C1498",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "54333894-33F2-4788-825E-6DBC3EF89DF0",
-        "date" : "2026-04-05T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "54333894-33F2-4788-825E-6DBC3EF89DF0",
+        "date": "2026-04-05T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "1EFCAB39-EF3B-4F1E-81A4-A1D93A2C7678",
-        "date" : "2026-04-06T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "1EFCAB39-EF3B-4F1E-81A4-A1D93A2C7678",
+        "date": "2026-04-06T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-04-07T12:00:00Z",
-        "id" : "98B01046-FCC3-43B6-BF34-D19EB00ECDE1"
+        "notes": "Completed daily session",
+        "date": "2026-04-07T12:00:00Z",
+        "id": "98B01046-FCC3-43B6-BF34-D19EB00ECDE1"
       },
       {
-        "id" : "32A71218-A37E-47B3-98C6-CFA5F8F23AC0",
-        "date" : "2026-04-08T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "32A71218-A37E-47B3-98C6-CFA5F8F23AC0",
+        "date": "2026-04-08T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-04-09T12:00:00Z",
-        "id" : "28EF30A0-8166-4DE0-9FCF-9F410C92BBD4"
+        "notes": "Completed daily session",
+        "date": "2026-04-09T12:00:00Z",
+        "id": "28EF30A0-8166-4DE0-9FCF-9F410C92BBD4"
       },
       {
-        "id" : "A9843FF4-FE9D-4775-8E41-082CFF124C61",
-        "date" : "2026-04-10T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "A9843FF4-FE9D-4775-8E41-082CFF124C61",
+        "date": "2026-04-10T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "AB644104-83C7-4CC9-852C-F149BACF517F",
-        "date" : "2026-04-11T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "AB644104-83C7-4CC9-852C-F149BACF517F",
+        "date": "2026-04-11T12:00:00Z"
       },
       {
-        "date" : "2026-04-13T12:00:00Z",
-        "id" : "973094B6-4B5C-49D5-8C95-D96FA52125DB",
-        "notes" : "Completed daily session"
+        "date": "2026-04-13T12:00:00Z",
+        "id": "973094B6-4B5C-49D5-8C95-D96FA52125DB",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-04-14T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "E3A7E439-FE49-407C-A34C-0273ADAB2587"
+        "date": "2026-04-14T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "E3A7E439-FE49-407C-A34C-0273ADAB2587"
       },
       {
-        "date" : "2026-04-15T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "04C40418-6C0B-4938-B0C7-CE8627ADE865"
+        "date": "2026-04-15T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "04C40418-6C0B-4938-B0C7-CE8627ADE865"
       },
       {
-        "date" : "2026-04-16T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "40FCFF86-6A9D-4510-B77E-DA13575B11AA"
+        "date": "2026-04-16T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "40FCFF86-6A9D-4510-B77E-DA13575B11AA"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "4B794D98-5F8C-4A6A-9F58-302605AE8E2C",
-        "date" : "2026-04-18T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "4B794D98-5F8C-4A6A-9F58-302605AE8E2C",
+        "date": "2026-04-18T12:00:00Z"
       },
       {
-        "id" : "95C1F0FA-7F61-4D70-AF19-F75EC5181A14",
-        "notes" : "Completed daily session",
-        "date" : "2026-04-19T12:00:00Z"
+        "id": "95C1F0FA-7F61-4D70-AF19-F75EC5181A14",
+        "notes": "Completed daily session",
+        "date": "2026-04-19T12:00:00Z"
       },
       {
-        "date" : "2026-04-20T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "89CB9905-B433-4C27-B4AA-5081F631F2D0"
+        "date": "2026-04-20T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "89CB9905-B433-4C27-B4AA-5081F631F2D0"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "579F0D63-EFEF-4F0D-A6A7-7505CB9E3243",
-        "date" : "2026-04-21T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "579F0D63-EFEF-4F0D-A6A7-7505CB9E3243",
+        "date": "2026-04-21T12:00:00Z"
       },
       {
-        "id" : "FCC59295-4851-48B9-8AED-1E3F3160B32C",
-        "date" : "2026-04-22T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "FCC59295-4851-48B9-8AED-1E3F3160B32C",
+        "date": "2026-04-22T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "0C13AD82-7156-48A9-98A3-76A53F2B8060",
-        "notes" : "Completed daily session",
-        "date" : "2026-04-23T12:00:00Z"
+        "id": "0C13AD82-7156-48A9-98A3-76A53F2B8060",
+        "notes": "Completed daily session",
+        "date": "2026-04-23T12:00:00Z"
       },
       {
-        "id" : "0D070914-361E-425C-9062-CB18B889976D",
-        "date" : "2026-04-24T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "0D070914-361E-425C-9062-CB18B889976D",
+        "date": "2026-04-24T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-04-25T12:00:00Z",
-        "id" : "01F21BE6-796C-4943-93E0-EDA207E3EE34",
-        "notes" : "Completed daily session"
+        "date": "2026-04-25T12:00:00Z",
+        "id": "01F21BE6-796C-4943-93E0-EDA207E3EE34",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-04-26T12:00:00Z",
-        "id" : "9248EEDC-93C4-4FFB-8911-C85EBDE75B22",
-        "notes" : "Completed daily session"
+        "date": "2026-04-26T12:00:00Z",
+        "id": "9248EEDC-93C4-4FFB-8911-C85EBDE75B22",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-04-27T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "019625DA-8274-44D9-A5F8-915D129DF446"
+        "date": "2026-04-27T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "019625DA-8274-44D9-A5F8-915D129DF446"
       },
       {
-        "id" : "4E0AACFF-BCCA-4BA2-821B-678D0F870856",
-        "date" : "2026-04-28T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "4E0AACFF-BCCA-4BA2-821B-678D0F870856",
+        "date": "2026-04-28T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "BE9127C7-7A03-441C-96D0-C9D5FCEC7E02",
-        "date" : "2026-04-29T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "BE9127C7-7A03-441C-96D0-C9D5FCEC7E02",
+        "date": "2026-04-29T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "B4B1C87D-8A9B-4ECC-9EF3-86F78CD8362C",
-        "date" : "2026-04-30T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "B4B1C87D-8A9B-4ECC-9EF3-86F78CD8362C",
+        "date": "2026-04-30T12:00:00Z"
       },
       {
-        "id" : "20A72A56-68D5-4180-B4D1-224846E23E51",
-        "date" : "2026-05-01T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "20A72A56-68D5-4180-B4D1-224846E23E51",
+        "date": "2026-05-01T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-05-03T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "AA0331E2-2791-4624-AFC5-5CE4D825603B"
+        "date": "2026-05-03T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "AA0331E2-2791-4624-AFC5-5CE4D825603B"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "847F7A24-6D62-4F52-9359-DAC152ED7D1E",
-        "date" : "2026-05-04T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "847F7A24-6D62-4F52-9359-DAC152ED7D1E",
+        "date": "2026-05-04T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-05-05T12:00:00Z",
-        "id" : "6583DCC2-1033-4865-BB2D-187A6BFF0B10"
+        "notes": "Completed daily session",
+        "date": "2026-05-05T12:00:00Z",
+        "id": "6583DCC2-1033-4865-BB2D-187A6BFF0B10"
       },
       {
-        "date" : "2026-05-06T12:00:00Z",
-        "id" : "A6605CE1-84DA-418A-9B4D-9D6887AF1AB2",
-        "notes" : "Completed daily session"
+        "date": "2026-05-06T12:00:00Z",
+        "id": "A6605CE1-84DA-418A-9B4D-9D6887AF1AB2",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-05-07T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "EF9A01B8-AC4B-4695-B826-2E2EB4F4CBB4"
+        "date": "2026-05-07T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "EF9A01B8-AC4B-4695-B826-2E2EB4F4CBB4"
       },
       {
-        "id" : "2D3C77CE-CB4B-4587-A905-D83FDBC00923",
-        "date" : "2026-05-08T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "2D3C77CE-CB4B-4587-A905-D83FDBC00923",
+        "date": "2026-05-08T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "361D814A-F9DE-405A-A4D0-DBB3F1515908",
-        "date" : "2026-05-10T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "361D814A-F9DE-405A-A4D0-DBB3F1515908",
+        "date": "2026-05-10T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "89177F92-700F-4586-B88F-39224DCBD149",
-        "notes" : "Completed daily session",
-        "date" : "2026-05-11T12:00:00Z"
+        "id": "89177F92-700F-4586-B88F-39224DCBD149",
+        "notes": "Completed daily session",
+        "date": "2026-05-11T12:00:00Z"
       },
       {
-        "id" : "B370ACE8-040A-4876-8F6A-DA8D83E42332",
-        "date" : "2026-05-12T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "B370ACE8-040A-4876-8F6A-DA8D83E42332",
+        "date": "2026-05-12T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "0764E62F-241A-48EF-9722-82D2C181337F",
-        "date" : "2026-05-13T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "0764E62F-241A-48EF-9722-82D2C181337F",
+        "date": "2026-05-13T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "94B7B596-3E87-42F3-A917-0EA815A6A7B7",
-        "date" : "2026-05-14T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "94B7B596-3E87-42F3-A917-0EA815A6A7B7",
+        "date": "2026-05-14T12:00:00Z"
       },
       {
-        "date" : "2026-05-15T12:00:00Z",
-        "id" : "AFA061E7-DFED-4D28-A25B-060E7BDBA15F",
-        "notes" : "Completed daily session"
+        "date": "2026-05-15T12:00:00Z",
+        "id": "AFA061E7-DFED-4D28-A25B-060E7BDBA15F",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-05-16T12:00:00Z",
-        "id" : "6451CF1D-D3ED-4769-B830-EF99234FFD3F",
-        "notes" : "Completed daily session"
+        "date": "2026-05-16T12:00:00Z",
+        "id": "6451CF1D-D3ED-4769-B830-EF99234FFD3F",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "9D40AE94-531C-40DC-94B1-9B9FB90BC639",
-        "date" : "2026-05-17T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "9D40AE94-531C-40DC-94B1-9B9FB90BC639",
+        "date": "2026-05-17T12:00:00Z"
       },
       {
-        "id" : "8CCF83BB-1748-47F4-A8BE-37E781B964B6",
-        "notes" : "Completed daily session",
-        "date" : "2026-05-18T12:00:00Z"
+        "id": "8CCF83BB-1748-47F4-A8BE-37E781B964B6",
+        "notes": "Completed daily session",
+        "date": "2026-05-18T12:00:00Z"
       },
       {
-        "date" : "2026-05-19T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "CB5E2CCD-9093-4E0A-9DDD-FF7C9335903E"
+        "date": "2026-05-19T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "CB5E2CCD-9093-4E0A-9DDD-FF7C9335903E"
       },
       {
-        "id" : "3656F6AA-2350-410B-95A1-77B9076CE3DB",
-        "date" : "2026-05-22T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "3656F6AA-2350-410B-95A1-77B9076CE3DB",
+        "date": "2026-05-22T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "7203C875-6828-49DA-A3E4-095BE721B973",
-        "notes" : "Completed daily session",
-        "date" : "2026-05-23T12:00:00Z"
+        "id": "7203C875-6828-49DA-A3E4-095BE721B973",
+        "notes": "Completed daily session",
+        "date": "2026-05-23T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "C2A5F230-0BAA-46C6-85AC-BC098F008FB1",
-        "date" : "2026-05-24T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "C2A5F230-0BAA-46C6-85AC-BC098F008FB1",
+        "date": "2026-05-24T12:00:00Z"
       },
       {
-        "id" : "F63E6E53-1BAF-489F-8D66-8311B675DD33",
-        "date" : "2026-05-26T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "F63E6E53-1BAF-489F-8D66-8311B675DD33",
+        "date": "2026-05-26T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-05-27T12:00:00Z",
-        "id" : "AA56C452-AC52-41B3-B435-6F7337BB6B0A",
-        "notes" : "Completed daily session"
+        "date": "2026-05-27T12:00:00Z",
+        "id": "AA56C452-AC52-41B3-B435-6F7337BB6B0A",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "125CBED4-2E3C-4110-B0EC-7C91A676D635",
-        "notes" : "Completed daily session",
-        "date" : "2026-05-28T12:00:00Z"
+        "id": "125CBED4-2E3C-4110-B0EC-7C91A676D635",
+        "notes": "Completed daily session",
+        "date": "2026-05-28T12:00:00Z"
       },
       {
-        "id" : "08F416C9-30BD-4903-BD09-427358A096B4",
-        "date" : "2026-05-29T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "08F416C9-30BD-4903-BD09-427358A096B4",
+        "date": "2026-05-29T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "9EC191FB-FFF1-432E-95A4-7BA26DF3F56D",
-        "notes" : "Completed daily session",
-        "date" : "2026-05-30T12:00:00Z"
+        "id": "9EC191FB-FFF1-432E-95A4-7BA26DF3F56D",
+        "notes": "Completed daily session",
+        "date": "2026-05-30T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "D76E3112-46CA-4AEA-85BE-91ABA5DC161D",
-        "date" : "2026-05-31T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "D76E3112-46CA-4AEA-85BE-91ABA5DC161D",
+        "date": "2026-05-31T12:00:00Z"
       },
       {
-        "date" : "2026-06-02T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "BCD7DE48-0C11-4579-BC21-932DCCA04C53"
+        "date": "2026-06-02T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "BCD7DE48-0C11-4579-BC21-932DCCA04C53"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "64B931F6-4EA2-4B36-A4C3-A36A321595FC",
-        "date" : "2026-06-03T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "64B931F6-4EA2-4B36-A4C3-A36A321595FC",
+        "date": "2026-06-03T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "3C1B73D2-96EA-47DE-9EC4-BB7CB062ED3B",
-        "date" : "2026-06-05T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "3C1B73D2-96EA-47DE-9EC4-BB7CB062ED3B",
+        "date": "2026-06-05T12:00:00Z"
       },
       {
-        "date" : "2026-06-06T12:00:00Z",
-        "id" : "AE87B089-BF01-4088-A39A-9B0B34243E9F",
-        "notes" : "Completed daily session"
+        "date": "2026-06-06T12:00:00Z",
+        "id": "AE87B089-BF01-4088-A39A-9B0B34243E9F",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-06-07T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "126A0C46-E72C-4D67-BFF4-47248B111A52"
+        "date": "2026-06-07T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "126A0C46-E72C-4D67-BFF4-47248B111A52"
       },
       {
-        "date" : "2026-06-08T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "709579AE-B2A6-4F7E-A0A0-CDF823291F0A"
+        "date": "2026-06-08T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "709579AE-B2A6-4F7E-A0A0-CDF823291F0A"
       }
     ],
-    "colorHex" : "#BF5AF2",
-    "reminderDays" : [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7
-    ],
-    "icon" : "brain.headprofile.peace",
-    "reminderEnabled" : true
+    "colorHex": "#BF5AF2",
+    "reminderDays": [1, 2, 3, 4, 5, 6, 7],
+    "icon": "brain.headprofile.peace",
+    "reminderEnabled": true
   },
   {
-    "weeklyTargetCount" : 1,
-    "customScheduleDays" : [
-      2,
-      4,
-      6
-    ],
-    "habitDescription" : "Solve LeetCode challenges",
-    "reminderMinute" : 0,
-    "reminderEnabled" : false,
-    "logs" : [
+    "weeklyTargetCount": 1,
+    "customScheduleDays": [2, 4, 6],
+    "habitDescription": "Solve LeetCode challenges",
+    "reminderMinute": 0,
+    "reminderEnabled": false,
+    "logs": [
       {
-        "date" : "2026-03-11T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "49E84747-1056-4123-A560-4AE8CC215B70"
+        "date": "2026-03-11T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "49E84747-1056-4123-A560-4AE8CC215B70"
       },
       {
-        "date" : "2026-03-16T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "A2195E61-B6B1-4145-99CB-C6BBB0AFAF70"
+        "date": "2026-03-16T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "A2195E61-B6B1-4145-99CB-C6BBB0AFAF70"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "174F738B-51DB-46C8-B7AC-322DF06E81D6",
-        "date" : "2026-03-18T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "174F738B-51DB-46C8-B7AC-322DF06E81D6",
+        "date": "2026-03-18T12:00:00Z"
       },
       {
-        "id" : "31B830AD-E31F-4C73-8213-FF5E19A28EF6",
-        "date" : "2026-03-20T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "31B830AD-E31F-4C73-8213-FF5E19A28EF6",
+        "date": "2026-03-20T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "F9590BFA-E9BA-4822-8F55-1518FCC82532",
-        "date" : "2026-03-25T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "F9590BFA-E9BA-4822-8F55-1518FCC82532",
+        "date": "2026-03-25T12:00:00Z"
       },
       {
-        "id" : "910C3B88-DDC2-4A7F-8C95-D8E39BED96E5",
-        "notes" : "Completed daily session",
-        "date" : "2026-04-01T12:00:00Z"
+        "id": "910C3B88-DDC2-4A7F-8C95-D8E39BED96E5",
+        "notes": "Completed daily session",
+        "date": "2026-04-01T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "7ACA7DA0-F957-4680-9A09-0F829D495015",
-        "date" : "2026-04-03T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "7ACA7DA0-F957-4680-9A09-0F829D495015",
+        "date": "2026-04-03T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-04-06T12:00:00Z",
-        "id" : "E95CFE77-DDD0-4071-B2A1-F9FD3609B812"
+        "notes": "Completed daily session",
+        "date": "2026-04-06T12:00:00Z",
+        "id": "E95CFE77-DDD0-4071-B2A1-F9FD3609B812"
       },
       {
-        "id" : "590368E6-C01D-4CFD-A056-21A976C557D6",
-        "date" : "2026-04-08T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "590368E6-C01D-4CFD-A056-21A976C557D6",
+        "date": "2026-04-08T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "9F228CEF-EFB1-42DE-AEA8-96E7B1E3C174",
-        "date" : "2026-04-10T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "9F228CEF-EFB1-42DE-AEA8-96E7B1E3C174",
+        "date": "2026-04-10T12:00:00Z"
       },
       {
-        "id" : "41615358-C6E5-490F-B1AB-BF3A1FC83195",
-        "date" : "2026-04-13T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "41615358-C6E5-490F-B1AB-BF3A1FC83195",
+        "date": "2026-04-13T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "C01A576C-210D-4E42-AD9B-635AE1E33F29",
-        "date" : "2026-04-15T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "C01A576C-210D-4E42-AD9B-635AE1E33F29",
+        "date": "2026-04-15T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "29AF92A2-1B64-4D37-97A5-25C717A911DD",
-        "notes" : "Completed daily session",
-        "date" : "2026-04-17T12:00:00Z"
+        "id": "29AF92A2-1B64-4D37-97A5-25C717A911DD",
+        "notes": "Completed daily session",
+        "date": "2026-04-17T12:00:00Z"
       },
       {
-        "id" : "7B1CDFFD-C1D8-406F-8261-72655D5C2579",
-        "notes" : "Completed daily session",
-        "date" : "2026-04-20T12:00:00Z"
+        "id": "7B1CDFFD-C1D8-406F-8261-72655D5C2579",
+        "notes": "Completed daily session",
+        "date": "2026-04-20T12:00:00Z"
       },
       {
-        "date" : "2026-04-27T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "951E4E4A-99D3-4839-96EC-B506F75F5290"
+        "date": "2026-04-27T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "951E4E4A-99D3-4839-96EC-B506F75F5290"
       },
       {
-        "id" : "0175AFDB-B5BB-4756-BBAC-A383A8536A46",
-        "date" : "2026-04-29T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "0175AFDB-B5BB-4756-BBAC-A383A8536A46",
+        "date": "2026-04-29T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "743CAED3-D8E0-4D8B-B111-AFAF31019BFB",
-        "notes" : "Completed daily session",
-        "date" : "2026-05-01T12:00:00Z"
+        "id": "743CAED3-D8E0-4D8B-B111-AFAF31019BFB",
+        "notes": "Completed daily session",
+        "date": "2026-05-01T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-05-08T12:00:00Z",
-        "id" : "86856E55-1FC9-4FED-B3A5-D6A067A0F8EF"
+        "notes": "Completed daily session",
+        "date": "2026-05-08T12:00:00Z",
+        "id": "86856E55-1FC9-4FED-B3A5-D6A067A0F8EF"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-05-11T12:00:00Z",
-        "id" : "613264D7-1CFB-4D2C-99D9-EEE991DF301D"
+        "notes": "Completed daily session",
+        "date": "2026-05-11T12:00:00Z",
+        "id": "613264D7-1CFB-4D2C-99D9-EEE991DF301D"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "C2CCCA78-67BA-4F77-825C-FF8258AAA8E2",
-        "date" : "2026-05-13T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "C2CCCA78-67BA-4F77-825C-FF8258AAA8E2",
+        "date": "2026-05-13T12:00:00Z"
       },
       {
-        "id" : "ED3B0B5F-0A47-40AB-BA0C-9552CD8DD93A",
-        "date" : "2026-05-15T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "ED3B0B5F-0A47-40AB-BA0C-9552CD8DD93A",
+        "date": "2026-05-15T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "EB83FEBA-FF1E-43A5-BED3-FA73CD7DC17A",
-        "date" : "2026-05-20T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "EB83FEBA-FF1E-43A5-BED3-FA73CD7DC17A",
+        "date": "2026-05-20T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "2172D213-3EB4-4BFD-A0D3-9FCE991E2C18",
-        "date" : "2026-05-25T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "2172D213-3EB4-4BFD-A0D3-9FCE991E2C18",
+        "date": "2026-05-25T12:00:00Z"
       },
       {
-        "date" : "2026-05-27T12:00:00Z",
-        "id" : "1488D39A-74F3-4B09-8545-5CDF42DF0799",
-        "notes" : "Completed daily session"
+        "date": "2026-05-27T12:00:00Z",
+        "id": "1488D39A-74F3-4B09-8545-5CDF42DF0799",
+        "notes": "Completed daily session"
       },
       {
-        "id" : "093A1D75-A0FF-4E38-B26E-A0D662C0F9C9",
-        "date" : "2026-05-29T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "093A1D75-A0FF-4E38-B26E-A0D662C0F9C9",
+        "date": "2026-05-29T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-06-01T12:00:00Z",
-        "id" : "C45CE698-F24A-45FB-9897-A8428FF70C47"
+        "notes": "Completed daily session",
+        "date": "2026-06-01T12:00:00Z",
+        "id": "C45CE698-F24A-45FB-9897-A8428FF70C47"
       }
     ],
-    "reminderDays" : [
-
-    ],
-    "startDate" : "2026-03-10T00:00:00Z",
-    "categoryName" : "Coding",
-    "colorHex" : "#0A84FF",
-    "name" : "Coding Practice",
-    "reminderHour" : 18,
-    "id" : "8DBEB918-DFA9-4905-80EE-EEC27FBE1FB9",
-    "icon" : "curlybraces",
-    "goalType" : "Custom Schedule"
+    "reminderDays": [],
+    "startDate": "2026-03-10T00:00:00Z",
+    "categoryName": "Coding",
+    "colorHex": "#0A84FF",
+    "name": "Coding Practice",
+    "reminderHour": 18,
+    "id": "8DBEB918-DFA9-4905-80EE-EEC27FBE1FB9",
+    "icon": "curlybraces",
+    "goalType": "Custom Schedule"
   },
   {
-    "goalType" : "Alternate Days",
-    "name" : "Gym Workout",
-    "customScheduleDays" : [
-
-    ],
-    "habitDescription" : "Strength and cardio session",
-    "reminderDays" : [
-      2,
-      4,
-      6
-    ],
-    "logs" : [
+    "goalType": "Alternate Days",
+    "name": "Gym Workout",
+    "customScheduleDays": [],
+    "habitDescription": "Strength and cardio session",
+    "reminderDays": [2, 4, 6],
+    "logs": [
       {
-        "notes" : "Completed daily session",
-        "id" : "43B42BFA-BB04-416B-A173-F581D2B5213C",
-        "date" : "2026-03-10T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "43B42BFA-BB04-416B-A173-F581D2B5213C",
+        "date": "2026-03-10T12:00:00Z"
       },
       {
-        "date" : "2026-03-12T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "F762E478-8714-4736-AD79-EDAF6D9D1DC1"
+        "date": "2026-03-12T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "F762E478-8714-4736-AD79-EDAF6D9D1DC1"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-03-14T12:00:00Z",
-        "id" : "C1461971-842E-48AF-9784-054FFD583A12"
+        "notes": "Completed daily session",
+        "date": "2026-03-14T12:00:00Z",
+        "id": "C1461971-842E-48AF-9784-054FFD583A12"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-03-18T12:00:00Z",
-        "id" : "772FA235-9D0F-4B9A-9D21-26D71D38C4E8"
+        "notes": "Completed daily session",
+        "date": "2026-03-18T12:00:00Z",
+        "id": "772FA235-9D0F-4B9A-9D21-26D71D38C4E8"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "4A5121A5-B98D-478A-B407-45C5281595DA",
-        "date" : "2026-03-20T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "4A5121A5-B98D-478A-B407-45C5281595DA",
+        "date": "2026-03-20T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-03-22T12:00:00Z",
-        "id" : "8C9643DC-E1F8-4B9D-82AC-55064AAB0156"
+        "notes": "Completed daily session",
+        "date": "2026-03-22T12:00:00Z",
+        "id": "8C9643DC-E1F8-4B9D-82AC-55064AAB0156"
       },
       {
-        "date" : "2026-03-24T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "2E1955F4-3701-473C-9DA0-E514546812B5"
+        "date": "2026-03-24T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "2E1955F4-3701-473C-9DA0-E514546812B5"
       },
       {
-        "date" : "2026-03-26T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "543755C8-135F-49A3-8FD9-F446692B5C09"
+        "date": "2026-03-26T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "543755C8-135F-49A3-8FD9-F446692B5C09"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "925B0344-800E-48C5-AAA5-E64CB7FE6EAA",
-        "date" : "2026-03-28T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "925B0344-800E-48C5-AAA5-E64CB7FE6EAA",
+        "date": "2026-03-28T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "776B9E4B-ADE5-4167-9B50-1E5C36624CB5",
-        "date" : "2026-03-30T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "776B9E4B-ADE5-4167-9B50-1E5C36624CB5",
+        "date": "2026-03-30T12:00:00Z"
       },
       {
-        "date" : "2026-04-01T12:00:00Z",
-        "id" : "EA2BCED2-0E0D-45D6-A5AD-41B84AED4388",
-        "notes" : "Completed daily session"
+        "date": "2026-04-01T12:00:00Z",
+        "id": "EA2BCED2-0E0D-45D6-A5AD-41B84AED4388",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-04-03T12:00:00Z",
-        "id" : "25C0AB97-A2D3-4E00-B47C-ECCCC86EF3EF",
-        "notes" : "Completed daily session"
+        "date": "2026-04-03T12:00:00Z",
+        "id": "25C0AB97-A2D3-4E00-B47C-ECCCC86EF3EF",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-04-05T12:00:00Z",
-        "id" : "C82830AE-B60D-4E65-8FE1-5AC4B9CD7F93",
-        "notes" : "Completed daily session"
+        "date": "2026-04-05T12:00:00Z",
+        "id": "C82830AE-B60D-4E65-8FE1-5AC4B9CD7F93",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "700F4092-95B6-4BEF-903B-CAD48FD4C62F",
-        "date" : "2026-04-07T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "700F4092-95B6-4BEF-903B-CAD48FD4C62F",
+        "date": "2026-04-07T12:00:00Z"
       },
       {
-        "id" : "15EFFAAB-1861-4D7C-A9A3-9DC66C327ADE",
-        "notes" : "Completed daily session",
-        "date" : "2026-04-09T12:00:00Z"
+        "id": "15EFFAAB-1861-4D7C-A9A3-9DC66C327ADE",
+        "notes": "Completed daily session",
+        "date": "2026-04-09T12:00:00Z"
       },
       {
-        "date" : "2026-04-11T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "DB4EE3D0-649C-4995-8690-57F9E7BBA006"
+        "date": "2026-04-11T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "DB4EE3D0-649C-4995-8690-57F9E7BBA006"
       },
       {
-        "date" : "2026-04-13T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "E2F70A71-FD6E-4709-9865-FA2908BD2D80"
+        "date": "2026-04-13T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "E2F70A71-FD6E-4709-9865-FA2908BD2D80"
       },
       {
-        "id" : "6508E1BF-529C-494F-B423-3F907CED6AF2",
-        "date" : "2026-04-15T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "6508E1BF-529C-494F-B423-3F907CED6AF2",
+        "date": "2026-04-15T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-04-17T12:00:00Z",
-        "id" : "22A04CBB-0A67-4C9A-8519-347BAFE585BD"
+        "notes": "Completed daily session",
+        "date": "2026-04-17T12:00:00Z",
+        "id": "22A04CBB-0A67-4C9A-8519-347BAFE585BD"
       },
       {
-        "id" : "248D9348-5BB6-43F0-8CE1-6F96AF9F787E",
-        "date" : "2026-04-21T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "248D9348-5BB6-43F0-8CE1-6F96AF9F787E",
+        "date": "2026-04-21T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "7B1EA4FC-9835-4990-9643-421785926319",
-        "date" : "2026-04-23T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "7B1EA4FC-9835-4990-9643-421785926319",
+        "date": "2026-04-23T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-04-25T12:00:00Z",
-        "id" : "43C0E4DC-CA50-4935-912D-83305DB5F38B"
+        "notes": "Completed daily session",
+        "date": "2026-04-25T12:00:00Z",
+        "id": "43C0E4DC-CA50-4935-912D-83305DB5F38B"
       },
       {
-        "date" : "2026-04-27T12:00:00Z",
-        "id" : "EEF401BB-9379-43ED-9F65-7CE2DE4EA99A",
-        "notes" : "Completed daily session"
+        "date": "2026-04-27T12:00:00Z",
+        "id": "EEF401BB-9379-43ED-9F65-7CE2DE4EA99A",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-04-29T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "AA453B79-1C4B-4A01-B51B-64D0C2065867"
+        "date": "2026-04-29T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "AA453B79-1C4B-4A01-B51B-64D0C2065867"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-05-01T12:00:00Z",
-        "id" : "D25128F7-570D-4072-85A7-1306714247B8"
+        "notes": "Completed daily session",
+        "date": "2026-05-01T12:00:00Z",
+        "id": "D25128F7-570D-4072-85A7-1306714247B8"
       },
       {
-        "date" : "2026-05-03T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "761E2924-C26D-4203-A095-0D45B851A352"
+        "date": "2026-05-03T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "761E2924-C26D-4203-A095-0D45B851A352"
       },
       {
-        "id" : "E05BD783-D289-42EC-B63C-EE20E9DA96FC",
-        "date" : "2026-05-05T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "E05BD783-D289-42EC-B63C-EE20E9DA96FC",
+        "date": "2026-05-05T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-05-07T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "651C2382-27AE-4D8A-BE27-BFF6318FB92A"
+        "date": "2026-05-07T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "651C2382-27AE-4D8A-BE27-BFF6318FB92A"
       },
       {
-        "date" : "2026-05-09T12:00:00Z",
-        "id" : "F5491114-976B-45C0-BCFB-CC162347389C",
-        "notes" : "Completed daily session"
+        "date": "2026-05-09T12:00:00Z",
+        "id": "F5491114-976B-45C0-BCFB-CC162347389C",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-05-11T12:00:00Z",
-        "id" : "DB5108BF-7C89-4897-8389-CD6D4533CC84",
-        "notes" : "Completed daily session"
+        "date": "2026-05-11T12:00:00Z",
+        "id": "DB5108BF-7C89-4897-8389-CD6D4533CC84",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-05-13T12:00:00Z",
-        "id" : "D4DA6C51-3498-4AB4-8AEB-DA17F73AC7AA"
+        "notes": "Completed daily session",
+        "date": "2026-05-13T12:00:00Z",
+        "id": "D4DA6C51-3498-4AB4-8AEB-DA17F73AC7AA"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "638EF4EF-447A-46D7-A555-437E4524B5CE",
-        "date" : "2026-05-17T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "638EF4EF-447A-46D7-A555-437E4524B5CE",
+        "date": "2026-05-17T12:00:00Z"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "87632F26-9900-4977-B111-6BD821E5C426",
-        "date" : "2026-05-19T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "87632F26-9900-4977-B111-6BD821E5C426",
+        "date": "2026-05-19T12:00:00Z"
       },
       {
-        "id" : "682A6623-CA8A-4D17-BB6E-0927BC269814",
-        "date" : "2026-05-21T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "682A6623-CA8A-4D17-BB6E-0927BC269814",
+        "date": "2026-05-21T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "date" : "2026-05-23T12:00:00Z",
-        "notes" : "Completed daily session",
-        "id" : "59946222-2C60-4EBF-91CB-73E508ABCEC9"
+        "date": "2026-05-23T12:00:00Z",
+        "notes": "Completed daily session",
+        "id": "59946222-2C60-4EBF-91CB-73E508ABCEC9"
       },
       {
-        "notes" : "Completed daily session",
-        "date" : "2026-05-25T12:00:00Z",
-        "id" : "0C958DD9-2F49-4592-B551-5047DA9D1C0E"
+        "notes": "Completed daily session",
+        "date": "2026-05-25T12:00:00Z",
+        "id": "0C958DD9-2F49-4592-B551-5047DA9D1C0E"
       },
       {
-        "id" : "1E8B2202-BCA7-49C8-B764-D79E8749D496",
-        "date" : "2026-05-27T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "1E8B2202-BCA7-49C8-B764-D79E8749D496",
+        "date": "2026-05-27T12:00:00Z",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "C394438F-EF05-4C8F-A91F-236F4D898653",
-        "date" : "2026-05-31T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "C394438F-EF05-4C8F-A91F-236F4D898653",
+        "date": "2026-05-31T12:00:00Z"
       },
       {
-        "id" : "3AD76F6B-BF3C-4A8F-9BB1-383E8CCE581B",
-        "notes" : "Completed daily session",
-        "date" : "2026-06-02T12:00:00Z"
+        "id": "3AD76F6B-BF3C-4A8F-9BB1-383E8CCE581B",
+        "notes": "Completed daily session",
+        "date": "2026-06-02T12:00:00Z"
       },
       {
-        "date" : "2026-06-04T12:00:00Z",
-        "id" : "B080F1FF-6043-4CB9-B9EA-8221224ECBB7",
-        "notes" : "Completed daily session"
+        "date": "2026-06-04T12:00:00Z",
+        "id": "B080F1FF-6043-4CB9-B9EA-8221224ECBB7",
+        "notes": "Completed daily session"
       },
       {
-        "notes" : "Completed daily session",
-        "id" : "5B52BF4F-46FA-4E04-87ED-92BF8FB524CE",
-        "date" : "2026-06-06T12:00:00Z"
+        "notes": "Completed daily session",
+        "id": "5B52BF4F-46FA-4E04-87ED-92BF8FB524CE",
+        "date": "2026-06-06T12:00:00Z"
       },
       {
-        "id" : "CC6B2780-F2DE-4289-8B0E-2245DCF8DDC6",
-        "date" : "2026-06-08T12:00:00Z",
-        "notes" : "Completed daily session"
+        "id": "CC6B2780-F2DE-4289-8B0E-2245DCF8DDC6",
+        "date": "2026-06-08T12:00:00Z",
+        "notes": "Completed daily session"
       }
     ],
-    "colorHex" : "#30D158",
-    "categoryName" : "Fitness",
-    "icon" : "figure.run",
-    "reminderMinute" : 30,
-    "id" : "C2D15204-C8B4-4ECF-8764-A08B7BC0CCB8",
-    "weeklyTargetCount" : 1,
-    "reminderHour" : 17,
-    "reminderEnabled" : true,
-    "startDate" : "2026-03-10T00:00:00Z"
+    "colorHex": "#30D158",
+    "categoryName": "Fitness",
+    "icon": "figure.run",
+    "reminderMinute": 30,
+    "id": "C2D15204-C8B4-4ECF-8764-A08B7BC0CCB8",
+    "weeklyTargetCount": 1,
+    "reminderHour": 17,
+    "reminderEnabled": true,
+    "startDate": "2026-03-10T00:00:00Z"
   },
   {
-    "id" : "81CD7BFB-76E2-4EA3-BE66-762F32C07D3C",
-    "habitDescription" : "Social Activity",
-    "icon" : "checkmark.circle",
-    "goalType" : "Alternate Days",
-    "reminderMinute" : 0,
-    "weeklyTargetCount" : 1,
-    "customScheduleDays" : [
-
-    ],
-    "colorHex" : "#0A84FF",
-    "reminderEnabled" : false,
-    "reminderHour" : 9,
-    "startDate" : "2026-06-08T14:52:33Z",
-    "categoryName" : "Study",
-    "reminderDays" : [
-
-    ],
-    "name" : "Reading Blog",
-    "logs" : [
-
-    ]
+    "id": "81CD7BFB-76E2-4EA3-BE66-762F32C07D3C",
+    "habitDescription": "Social Activity",
+    "icon": "checkmark.circle",
+    "goalType": "Alternate Days",
+    "reminderMinute": 0,
+    "weeklyTargetCount": 1,
+    "customScheduleDays": [],
+    "colorHex": "#0A84FF",
+    "reminderEnabled": false,
+    "reminderHour": 9,
+    "startDate": "2026-06-08T14:52:33Z",
+    "categoryName": "Study",
+    "reminderDays": [],
+    "name": "Reading Blog",
+    "logs": []
   }
 ]
