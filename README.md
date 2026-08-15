@@ -1,12 +1,11 @@
 # HabitFlow
 
 <div align="center">
-  <img src="https://img.shields.io/github/repo-size/givemehat/HabitFlow?style=for-the-badge&color=blue" alt="Repository Size" />
-  <img src="https://img.shields.io/github/license/givemehat/HabitFlow?style=for-the-badge&color=green" alt="License" />
-  <img src="https://img.shields.io/github/commit-activity/m/givemehat/HabitFlow?style=for-the-badge&color=orange" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/last-commit/givemehat/HabitFlow?style=for-the-badge&color=red" alt="Last Commit" />
+  <img src="https://img.shields.io/github/repo-size/givemehat/habitflow?style=for-the-badge&color=blue" alt="Repository Size" />
+  <img src="https://img.shields.io/github/license/givemehat/habitflow?style=for-the-badge&color=green" alt="License" />
+  <img src="https://img.shields.io/github/commit-activity/m/givemehat/habitflow?style=for-the-badge&color=orange" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/last-commit/givemehat/habitflow?style=for-the-badge&color=red" alt="Last Commit" />
 </div>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-macOS%2015.0%2B-blue.svg" alt="Platform macOS 15+">
